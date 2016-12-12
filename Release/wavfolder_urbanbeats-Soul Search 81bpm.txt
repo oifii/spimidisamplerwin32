@@ -1,0 +1,7 @@
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Soul Search 81bpm\Loops\Soul Search 81bpm Main.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Soul Search 81bpm\Loops\Soul Search 81bpm Var.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Soul Search 81bpm\Tracks\01 BD Soul Search 81bpm.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Soul Search 81bpm\Tracks\02 SD Soul Search 81bpm.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Soul Search 81bpm\Tracks\03 CLP Soul Search 81bpm.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Soul Search 81bpm\Tracks\04 HHC Soul Search 81bpm.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Soul Search 81bpm\Tracks\05 CYM Soul Search 81bpm.wav

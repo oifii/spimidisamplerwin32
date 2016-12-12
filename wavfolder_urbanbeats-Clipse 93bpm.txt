@@ -1,0 +1,10 @@
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Loops\Clipse 93bpm Main.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Loops\Clipse 93bpm Var.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Tracks\01 BD Clipse 93bpm.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Tracks\02 BD Clipse 93bpm.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Tracks\03 BD Clipse 93bpm.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Tracks\04 SD Clipse 93bpm.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Tracks\05 HHC Clipse 93bpm.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Tracks\06 TMB Clipse 93bpm.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Tracks\07 PRC Clipse 93bpm.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Urban Beats\Z - Samples\Clipse 93bpm\Tracks\08 PRC Clipse 93bpm.wav

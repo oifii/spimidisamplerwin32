@@ -1,0 +1,24 @@
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\11 accoustic space.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\17 golden plate.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\19 sn short.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\Arena Soundcheck.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\Cabinet 4 x 10.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\ENTRY HALL-2.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\Fake Reverse.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\Firecracker Snare.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\Ghost Air.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\Glass Shower.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\Iso Booth.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\ndb_cathedral_ir_16bit.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\New Air.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\Pantry.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\PAR-Q_1.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\plate bright mit ER.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\Shifting Booth.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\Small Room.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\Soft'n'Small Room.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\Techno Clank.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\Tiny Room.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\Tremolo Reverb.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\warm room.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\IR Samples\wood room.wav

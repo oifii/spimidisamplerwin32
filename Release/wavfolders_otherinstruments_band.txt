@@ -1,0 +1,70 @@
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\1 - Horns Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\2 - Acoustic Pianos Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\3 - Electric Pianos Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\6 - Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\IR Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\Wallpaper
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\1 - Horns Samples\Alto Sax Keys Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\1 - Horns Samples\Alto Saxophone Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\1 - Horns Samples\Baritone Saxophone Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\1 - Horns Samples\Barotone Keys Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\1 - Horns Samples\Sax Section Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\1 - Horns Samples\Tenor Sax Keys Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\1 - Horns Samples\Tenor Saxophone Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\1 - Horns Samples\Trombone Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\1 - Horns Samples\Trombone Section Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\1 - Horns Samples\Trumpet Mute Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\1 - Horns Samples\Trumpet Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\1 - Horns Samples\Trumpet Section Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\2 - Acoustic Pianos Samples\Boesendorfer Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\2 - Acoustic Pianos Samples\Steingraeber Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\3 - Electric Pianos Samples\Fender MK2 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\3 - Electric Pianos Samples\Hohner E7 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\3 - Electric Pianos Samples\Wurlitzer A200 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\A Whiter Shade Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\B4 Blues Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\Born to B4 Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\Circus Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\Cool Cats Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\Disharmonica Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\Francescos Trumpet Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\House Plop Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\Indian Ropemen Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\Jazz Basic Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\Jazz Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\Je t aime Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\Marquee Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\Oye Como Va Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\Percussion Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\Preston Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\Reggae Basic Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\Rock Basic Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\The Cat Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\The Third Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\Woodstock Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\4 - Organ Samples\Percussion Samples\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\Akkord Guitar Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\E-Guitar Bridge-Pickup Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\Elektrik Guitar Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\Funk Guitar Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\Harmonic Guitar Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\Jazz Guitar Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\5 - Guitar Samples\Nylon Guitar Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\6 - Bass Samples\Bridge Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\6 - Bass Samples\Bridge+Neck Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\6 - Bass Samples\Neck Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\6 - Bass Samples\Upright Bass Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Bling Bling Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Chocolate City Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Crystal Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Funk Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Jazz Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Platinum Plus Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Pop Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rock Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Urban Kit Samples

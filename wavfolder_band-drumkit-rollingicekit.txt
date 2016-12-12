@@ -1,0 +1,30 @@
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\45_bollydrum3.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\80snare.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\80snare2.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\Bass Drum20.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\Bass Drum21.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\Bass Drum22.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\Bass Drum23.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\Bass Drum24.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\bd_rauschen1.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\box_chat.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\box_ohat.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\dc_clav.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\dc_rim_job.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\fnkc194.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\fnkc243.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\hh06.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\monoclap01.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\mono-machine_05.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\OB3000_Clap_ST_v02.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\OB3000_CLHH_ST_v01.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\OB3000_SNa_ST_v03.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\RAmk2_ClapsTR_ST.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\RAmk2_cl-hihat01_ST.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\RAmk2_mupf_bd.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\RAmk2_tech_bd_ST.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\sd_industry2.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\shaker2.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\sweetshaker.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\sweetshaker2.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Rolling Ice Kit Samples\Triangle.wav

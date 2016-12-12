@@ -1,0 +1,26 @@
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\080-BD.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\747shake.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\Bass Drum  Hip-Hop2-02.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\chh_knackser1.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\clap st 1.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\click 3.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\CymbalReverse  NYHouze2.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\dc- Aeon_bd.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\dc_lunarnights_bd.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\elctrcbass1.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\fnkc200.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\gmcbsa_dn14.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\gmtri_mt_14.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\gmtria_opn_14.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\hh10.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\hihheels.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\metallhat_cl.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\miniclap1.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\miniclap2.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\OB3000_SNe_ST_v03.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\RAmk2_tamborine_ST.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\Snare Drum6  Big Beat1.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\snare_clap.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\synshot.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\tightsnare.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Band\Z - Samples\7 - Drum Kit Samples\Street Knowledge Kit Samples\tiny hht cl.wav

@@ -1,0 +1,161 @@
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\African Shakers Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Bansuri Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Bongo Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Celesta Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Conga Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Daf Dayereh Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Darabuka Dunbek Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Djembe Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Duduk Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Ewe Toke Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Fiddle Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Gong Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\High Whistle Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Highland Pipes Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\IR Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Irish Flute Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kalimba Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kaval Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kora Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kroboto Boba Kidi Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Low Whistle Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Melodeon Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Music Box Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Oud Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Recorder Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Riq Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Sansa Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Shakuhachi Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Shehnai Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Small Gongs Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Steel Drums Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Taiko Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Timbale Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tonbak Tar Davul Kit Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tulum Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tuned Gongs Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Turkish Ney Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Wallpaper
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Zurna Samples
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register I
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register II
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register III
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Sounds
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register I\Bass
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register I\Diskant
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register I\Bass\Bass forte
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register I\Bass\Bass piano
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register I\Diskant\Diskant Forte
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register I\Diskant\Diskant mezzo
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register I\Diskant\Diskant piano
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register II\Bass
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register II\Diskant
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register II\Bass\Bass forte
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register II\Bass\Bass piano
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register II\Diskant\Diskant Forte
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register II\Diskant\Diskant mezzo
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register II\Diskant\Diskant piano
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register III\Bass
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register III\Diskant
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register III\Bass\Bass forte
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register III\Bass\Bass piano
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register III\Diskant\Diskant Forte
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register III\Diskant\Diskant mezzo
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Accordion Samples\Register III\Diskant\Diskant piano
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Bansuri Samples\Bansuri Vel_1
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Bansuri Samples\Bansuri Vel_2
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Bansuri Samples\Bansuri Vel_3
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Bansuri Samples\Bansuri Vel_4
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Bansuri Samples\Bansuri Vel_1\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Bansuri Samples\Bansuri Vel_2\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Bansuri Samples\Bansuri Vel_3\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Bansuri Samples\Bansuri Vel_4\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Duduk Samples\Duduk Vel_1
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Duduk Samples\Duduk Vel_2
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Duduk Samples\Duduk Vel_3
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Duduk Samples\Duduk Vel_4
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Duduk Samples\Duduk Vel_1\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Duduk Samples\Duduk Vel_2\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Duduk Samples\Duduk Vel_3\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Duduk Samples\Duduk Vel_4\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\High Whistle Samples\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Highland Pipes Samples\HPchanter Vel_1
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Highland Pipes Samples\HPdrones
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Highland Pipes Samples\HPchanter Vel_1\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Irish Flute Samples\Irish flute Vel_1
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Irish Flute Samples\Irish flute Vel_2
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Irish Flute Samples\Irish flute Vel_3
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Irish Flute Samples\Irish flute Vel_4
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Irish Flute Samples\Irish flute Vel_1\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Irish Flute Samples\Irish flute Vel_2\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Irish Flute Samples\Irish flute Vel_3\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Irish Flute Samples\Irish flute Vel_4\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kaval Samples\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kora Samples\LHkora Vel_1
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kora Samples\LHkora Vel_2
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kora Samples\RHkora Vel_1
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kora Samples\RHkora Vel_2
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kora Samples\LHkora Vel_1\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kora Samples\LHkora Vel_2\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kora Samples\RHkora Vel_1\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Kora Samples\RHkora Vel_2\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Low Whistle Samples\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Melodeon Samples\Melodeon Bass
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Melodeon Samples\Melodeon Chords
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Melodeon Samples\Melodeon Manual
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Melodeon Samples\Melodeon Bass\MelBass Vel_1
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Melodeon Samples\Melodeon Bass\MelBass Vel_2
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Melodeon Samples\Melodeon Bass\MelBass Vel_3
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Melodeon Samples\Melodeon Chords\MelChord Vel_1
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Melodeon Samples\Melodeon Chords\MelChord Vel_2
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Melodeon Samples\Melodeon Chords\MelChord Vel_3
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Melodeon Samples\Melodeon Manual\MelManual Vel_1
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Melodeon Samples\Melodeon Manual\MelManual Vel_2
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Melodeon Samples\Melodeon Manual\MelManual Vel_3
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples\Nyatiti Vel_1
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Nyatiti Samples\Nyatiti Vel_2
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Oud Samples\Oud Vel_1
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Oud Samples\Oud Vel_2
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Oud Samples\Oud Vel_3
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Oud Samples\Oud Vel_4
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Oud Samples\Oud Vel_3\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Fingers
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_1\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_2\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_3\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Persian Ney Samples\Persian Ney Vel_4\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Recorder Samples\Piccolo
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Recorder Samples\Sopran
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Recorder Samples\Tenor
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Shehnai Samples\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tulum Samples\Tulum Vel_1
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tulum Samples\Tulum Vel_2
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tulum Samples\Tulum Vel_1\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Tulum Samples\Tulum Vel_2\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Turkish Ney Samples\Turkish Ney - Fast Vib
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Turkish Ney Samples\Turkish Ney - Slow Vib
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Turkish Ney Samples\Turkish Ney - Fast Vib\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Turkish Ney Samples\Turkish Ney - Slow Vib\Turkish Ney Vel_1
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Turkish Ney Samples\Turkish Ney - Slow Vib\Turkish Ney Vel_2
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Turkish Ney Samples\Turkish Ney - Slow Vib\Turkish Ney Vel_3
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Turkish Ney Samples\Turkish Ney - Slow Vib\Turkish Ney Vel_4
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_1
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_2
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_3
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPdrones+regs
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_1\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_2\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPchanter Vel_3\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Uilleann Pipes Samples\UPdrones+regs\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Zurna Samples\Zurna Vel_1
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Zurna Samples\Zurna Vel_2
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Zurna Samples\Zurna Vel_1\__NI_SMPL_ADD__
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\World\Z - Samples\Zurna Samples\Zurna Vel_2\__NI_SMPL_ADD__

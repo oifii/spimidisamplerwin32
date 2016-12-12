@@ -1,0 +1,11 @@
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\SingSang Samples\Voi1a.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\SingSang Samples\Voi1b.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\SingSang Samples\Voi1c.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\SingSang Samples\Voi2a.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\SingSang Samples\Voi2b.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\SingSang Samples\Voi3a.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\SingSang Samples\Voi3b.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\SingSang Samples\Voi3c.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\SingSang Samples\Voi4a.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\SingSang Samples\Voi4b.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Choir Samples\SingSang Samples\Voi4c.wav

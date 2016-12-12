@@ -1,0 +1,16 @@
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\Cathedral-Disable.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\Cathedral-Far.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\Cathedral-Medium.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\Cathedral-Near.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\ConcertHall-Disable.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\ConcertHall-Far.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\ConcertHall-Medium.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\ConcertHall-Near.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\JazzClub-Disable.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\JazzClub-Far.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\JazzClub-Medium.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\JazzClub-Near.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\RecordingStudio-Disable.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\RecordingStudio-Far.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\RecordingStudio-Medium.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Orchestral\Z - Samples\IR Samples\RecordingStudio-Near.wav

@@ -1,0 +1,14 @@
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\VL-1 Samples\VL-1 Kit Samples\VL1 - HiHat.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\VL-1 Samples\VL-1 Kit Samples\VL1 - Kick.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\VL-1 Samples\VL-1 Kit Samples\VL1 - Loop 1.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\VL-1 Samples\VL-1 Kit Samples\VL1 - Loop 10.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\VL-1 Samples\VL-1 Kit Samples\VL1 - Loop 2.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\VL-1 Samples\VL-1 Kit Samples\VL1 - Loop 2a.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\VL-1 Samples\VL-1 Kit Samples\VL1 - Loop 3.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\VL-1 Samples\VL-1 Kit Samples\VL1 - Loop 4.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\VL-1 Samples\VL-1 Kit Samples\VL1 - Loop 5.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\VL-1 Samples\VL-1 Kit Samples\VL1 - Loop 6.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\VL-1 Samples\VL-1 Kit Samples\VL1 - Loop 7.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\VL-1 Samples\VL-1 Kit Samples\VL1 - Loop 8.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\VL-1 Samples\VL-1 Kit Samples\VL1 - Loop 9.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Vintage\Z - Samples\VL-1 Samples\VL-1 Kit Samples\VL1 - Snare.wav

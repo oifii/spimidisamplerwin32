@@ -1,0 +1,24 @@
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\Devineclip1.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\DevineDoubleStep.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\DevineHat1.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\DevineHat2.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\DevineHeavyKick.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\DevineHecSnare.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\DevineInsect1.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\DevineKick1.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\DevineKick2.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\Devineknock.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\Devinelowlock.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\DevineMerc4.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\DevineMerc5.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\DevineMerzbo stretch.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\Devinemetal1.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\DevineMetalsigh2.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\DevinePop.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\DevineShiftMaser.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\Devineshortkick.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\Devineslightsnare.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\DevineSnareTap.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\DevineSteamGrain 2.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\DevineSteamSwitch.wav
+D:\Program Files\Native Instruments\Sample Libraries\Kontakt 3 Library\Synth\Z - Samples\Synth Drums Samples\Remember The Future Kit Samples\DevineStompKick.wav

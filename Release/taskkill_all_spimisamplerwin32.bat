@@ -1,0 +1,1 @@
+taskkill /im spimidisamplerwin32.exe
