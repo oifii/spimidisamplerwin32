@@ -80,6 +80,7 @@
   <ItemGroup>
     <None Include="ReadMe.txt" />
     <None Include="small.ico" />
+    <None Include="spi.licenseheader" />
     <None Include="spimidisamplerwin32.ico" />
   </ItemGroup>
   <ItemGroup>
